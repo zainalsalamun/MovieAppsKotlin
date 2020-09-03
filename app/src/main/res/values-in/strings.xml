@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KatalogFilm</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="title_bar_1">Film</string>
+    <string name="title_bar_2">Acara TV</string>
+    <string name="title_bar_3">Favorit</string>
+    <string name="tvt_overview">Sinopsis</string>
+    <string name="release">Rilis: </string>
+    <string name="detail_movie">Detail Film</string>
+    <string name="detail_tv">Detail Acara TV</string>
+    <string name="cd_backdrop_movie">Backdrop Film</string>
+    <string name="cd_poster_movie">Poster Film</string>
+    <string name="cd_backdrop_tv">Backdrop Acara TV</string>
+    <string name="cd_poster_tv">Poster Acara TV</string>
+    <string name="toast_failedtv">TV Show ini sudah jadi favorit anda</string>
+    <string name="toast_failedmovie">Film ini sudah jadi favorit anda</string>
+    <string name="remove">Hapus</string>
+    <string name="toast_success">Ditambahkan ke favorit</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Cari film</string>
+    <string name="content_text">Ayo lihat daftar film terbaru!</string>
+    <string name="settings">Pengaturan</string>
+    <string name="set_remider">Set Remider</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+
+
+</resources>
