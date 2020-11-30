@@ -29,7 +29,6 @@ class MainActivity : AppCompatActivity() {
         val navController = findNavController(R.id.nav_host_fragment)
 
         val appBarConfiguration = AppBarConfiguration.Builder(
-            //this is belong to menu item, not the navigation
             R.id.navigation_movie, R.id.navigation_tv
         ).build()
 
